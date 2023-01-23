@@ -12,8 +12,8 @@ require (
 	github.com/juju/ratelimit v1.0.1
 	github.com/r3labs/diff/v2 v2.15.1
 	github.com/spf13/viper v1.12.0
-	github.com/stretchr/testify v1.8.0
-	github.com/urfave/cli v1.22.9
+	github.com/stretchr/testify v1.8.1
+	github.com/urfave/cli v1.22.12
 	github.com/xtls/xray-core v1.5.8
 	golang.org/x/net v0.0.0-20220607020251-c690dde0001d
 	google.golang.org/appengine v1.6.7 // indirect
@@ -132,7 +132,7 @@ require (
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/stretchr/objx v0.4.0 // indirect
+	github.com/stretchr/objx v0.5.0 // indirect
 	github.com/subosito/gotenv v1.3.0 // indirect
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/common v1.0.392 // indirect
 	github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/dnspod v1.0.392 // indirect
